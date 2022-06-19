@@ -29,8 +29,6 @@ def length_of_longest_substring(string):
         print(f"The longest non-repeating substring is {substring} with a length of {len(substring)}")
 
 
-
-
 def main():
 
     while(True):
@@ -44,7 +42,6 @@ def main():
         if cont == 'n':
 
             break
-
 
 if __name__ == "__main__":
     main()
